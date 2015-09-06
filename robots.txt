@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://itmonkeylife.git.github.io/git@github.com:ITMonkeyLife/sitemap.xml 
